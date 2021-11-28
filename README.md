@@ -10,3 +10,6 @@
 
 
 - Current organization 🅱 Behemehal
+
+### My stats
+<img src="https://wakatime.com/share/@0c2e5d9d-b9bf-4ef0-8e7f-f00bd9ca881b/7746bc07-ace1-4cdf-87dc-4a152b2c2888.svg"/>
