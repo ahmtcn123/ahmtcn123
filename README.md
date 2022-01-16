@@ -18,4 +18,6 @@
 
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust-GPS - GPS package parser according to NMEA standards](https://github.com/ahmtcn123/Rust-GPS)
 
- <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Device-Database - A library that detects collection of development boards.](https://github.com/ahmtcn123/Device-Database)
+ <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> - [Device-Database - A library that detects collection of development boards.](https://github.com/ahmtcn123/Device-Database)
+
+<img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> - [rpifan - Auto fan controller service for RaspberryPi ](https://github.com/ahmtcn123/rpifan)
