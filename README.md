@@ -17,3 +17,5 @@
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Menemen - A streaming http request library](https://github.com/behemehal/Menemen)
 
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust-GPS - GPS package parser according to NMEA standards](https://github.com/ahmtcn123/Rust-GPS)
+
+ <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Device-Database - A library that detects collection of development boards.](https://github.com/ahmtcn123/Device-Database)
