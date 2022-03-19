@@ -14,6 +14,8 @@
 
 <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/dartlang.png" width="35"> - [event_listener - NodeJS like Event Listener library for dart!](https://github.com/behemehal/event_listener)
 
+<img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/dartlang.png" width="35"> - [Bnots -  A note app that combines simplicity with Markdown support](https://github.com/behemehal/Bnots)
+
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Menemen - A streaming http request library](https://github.com/behemehal/Menemen)
 
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust-GPS - GPS package parser according to NMEA standards](https://github.com/ahmtcn123/Rust-GPS)
