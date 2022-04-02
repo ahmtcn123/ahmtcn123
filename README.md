@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Ahmet, Im creating open-source non profit libraries, apps and services for open-source world.
+
 - 📫 How to reach me: ...
   - 🐦 Twitter: [@ahmetcanaksu](https://twitter.com/ahmetcanaksu)
   - 📨 Mail   : ahmetcanaksu@behemehal.net
@@ -23,3 +25,9 @@
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> - [Device-Database - A library that detects collection of development boards.](https://github.com/ahmtcn123/Device-Database)
 
 <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> - [rpifan - Auto fan controller service for RaspberryPi ](https://github.com/ahmtcn123/rpifan)
+
+### Technologies I Use
+
+<img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/node_logo.png" width="35"> <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust_logo.png" width="35"> <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/mongologo.png" width="75"> <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/express_logo.png" width="75"> <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/mssql_logo.png" width="45"> <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/postgre_sql_logo.png" width="45">
+
+<a href="https://www.buymeacoffee.com/ahmtcn123" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
