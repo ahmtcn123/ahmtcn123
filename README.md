@@ -18,7 +18,10 @@ My name is Ahmet, Im creating open-source non profit libraries, apps and service
 
 <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/dartlang.png" width="35"> - [Bnots -  A note app that combines simplicity with Markdown support](https://github.com/behemehal/Bnots)
 
- <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Menemen - A streaming http request library](https://github.com/behemehal/Menemen)
+ <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Menemen - A streaming http/https request library](https://github.com/behemehal/Menemen)
+ 
+ <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [SafeEn - Local database solution for situations that requires strict data integrity and absolute portability](https://github.com/behemehal/SafeEn)
+
 
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust-GPS - GPS package parser according to NMEA standards](https://github.com/ahmtcn123/Rust-GPS)
 
