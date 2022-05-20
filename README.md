@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ahmet, Im creating open-source non profit libraries, apps and services for open-source world.
+My name is Ahmet, Im creating open-source libraries, apps and services for open-source world.
 
 - 📫 How to reach me: ...
   - 🐦 Twitter: [@ahmetcanaksu](https://twitter.com/ahmetcanaksu)
