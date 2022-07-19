@@ -6,11 +6,14 @@ My name is Ahmet, Im creating open-source libraries, apps and services for open-
   - 🐦 Twitter: [@ahmetcanaksu](https://twitter.com/ahmetcanaksu)
   - 📨 Mail   : ahmetcanaksu@behemehal.net
 
-### 📝 Check out my blog posts;
+### Check out my blog posts;
 
 <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust ile web servisi yazıyoruz](https://www.linkedin.com/pulse/rust-ile-web-servisi-yaz%C4%B1yoruz-ahmetcan-aksu/)
 
-### 🚧 Check out my projects;
+<img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust ile WebAssembly yazıyoruz](https://www.linkedin.com/pulse/rust-ile-webassembly-yaz%25C4%25B1yoruz-ahmetcan-aksu/?trackingId=HYV97J0LS96u8vtsNryQpw%3D%3D)
+
+
+### Check out my projects;
 
 <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Ellie Language -  Type-safe programing language that runs on embedded and sandboxed environments](https://github.com/behemehal/Ellie-Language)
 
