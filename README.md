@@ -28,7 +28,7 @@ My name is Ahmet, Im creating open-source libraries, apps and services for open-
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [SafeEn - Local database solution for situations that requires strict data integrity and absolute portability](https://github.com/behemehal/SafeEn)
 
 
- <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust-GPS - GPS package parser according to NMEA standards](https://github.com/ahmtcn123/Rust-GPS)
+ <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust-NMEA - Rust NMEA parser](https://github.com/ahmtcn123/Rust-NMEA)
 
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> - [Device-Database - A library that detects collection of development boards.](https://github.com/ahmtcn123/Device-Database)
 
