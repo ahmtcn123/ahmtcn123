@@ -1,6 +1,6 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-My name is Ahmet, Im creating open-source libraries, apps and services for open-source world.
+Hello everybody! My name is Ahmet and I create open source libraries, projects and blogs to support the open source idea.
 
 - 📫 How to reach me: ...
   - 🐦 Twitter: [@ahmetcanaksu](https://twitter.com/ahmetcanaksu)
