@@ -4,7 +4,12 @@ My name is Ahmet, Im creating open-source libraries, apps and services for open-
 
 - 📫 How to reach me: ...
   - 🐦 Twitter: [@ahmetcanaksu](https://twitter.com/ahmetcanaksu)
+  - LinkedIn  : [Ahmetcan Aksu](https://www.linkedin.com/in/ahmetcan-aksu-61295017a/)
+  - CodersRank: [@ahmtcn123](https://profile.codersrank.io/user/ahmtcn123)
   - 📨 Mail   : ahmetcanaksu@behemehal.net
+
+### CodersRank
+<img height="250px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ahmtcn123&badges=3&show-avatar=false&style=--header-bg-color:%F78166;--border-radius:10px"/>
 
 ### Check out my blog posts;
 
@@ -33,6 +38,20 @@ My name is Ahmet, Im creating open-source libraries, apps and services for open-
  <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> - [Device-Database - A library that detects collection of development boards.](https://github.com/ahmtcn123/Device-Database)
 
 <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/js.png" width="35"> - [rpifan - Auto fan controller service for RaspberryPi ](https://github.com/ahmtcn123/rpifan)
+
+<details>
+  <summary><h3>Coding Activity</h3></summary>
+  <br/>
+  <img width="500px" src="https://wakatime.com/share/@ahmtcn123/0c710312-0d3a-460e-98e4-60d4ab2a6db2.png" />
+</details>
+
+<details>
+  <summary><h3>Skills Chart</h3></summary>
+  <br/>
+  <img height="400px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ahmtcn123&width=700"/>
+</details>
+
+
 
 ### Technologies I Use
 
