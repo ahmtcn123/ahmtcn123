@@ -4,7 +4,7 @@ Hello everybody! My name is Ahmet and I create open source libraries, projects a
 
 - 📫 How to reach me: ...
   - 🐦 Twitter: [@ahmetcanaksu](https://twitter.com/ahmetcanaksu)
-  - LinkedIn  : [Ahmetcan Aksu](https://www.linkedin.com/in/ahmetcan-aksu-61295017a/)
+  - LinkedIn  : [Ahmetcan Aksu](https://www.linkedin.com/in/ahmetcanaksu/)
   - CodersRank: [@ahmtcn123](https://profile.codersrank.io/user/ahmtcn123)
   - 📨 Mail   : ahmetcanaksu@behemehal.org
 
@@ -12,6 +12,8 @@ Hello everybody! My name is Ahmet and I create open source libraries, projects a
 <img height="250px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=ahmtcn123&badges=3&show-avatar=false&style=--header-bg-color:%23f78166;--border-radius:10px"/>
 
 ### Check out my blog posts;
+
+<img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust ile HTTP üzerinden dosya indirmek](https://www.linkedin.com/pulse/rust-ile-http-%25C3%25BCzerinden-dosya-indirmek-ahmetcan-aksu/)
 
 <img src="https://raw.githubusercontent.com/ahmtcn123/ahmtcn123/main/rust.png" width="35"> - [Rust ile web servisi yazıyoruz](https://www.linkedin.com/pulse/rust-ile-web-servisi-yaz%C4%B1yoruz-ahmetcan-aksu/)
 
